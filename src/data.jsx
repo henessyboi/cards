@@ -1,0 +1,27 @@
+export const persons = [
+    {
+       name:'Nkera',
+       department:'economic',
+       telephone:'0787748262'
+    },
+    {
+        name:'Nkera',
+        department:'economic',
+        telephone:'0787748262'
+     },
+     {
+        name:'Nkera',
+        department:'economic',
+        telephone:'0787748262'
+     },
+     {
+        name:'Nkera',
+        department:'economic',
+        telephone:'0787748262'
+     },
+     {
+        name:'Nkera',
+        department:'economic',
+        telephone:'0787748262'
+     },
+]
